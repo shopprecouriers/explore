@@ -10,8 +10,8 @@
 - Rs.200 First time 
 - Rs.200 for other customers follow your article and ship through shoppre
 
- Fill the Form 👉 https://bit.ly/2NNiuUh
- Document 👉https://bit.ly/379PsFX
+ - Fill the Form 👉 https://bit.ly/2NNiuUh
+ - Document 👉https://bit.ly/379PsFX
 
 #### Examples:
 
