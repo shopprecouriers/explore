@@ -1,17 +1,29 @@
 # Join ShoppRe Community
 
+[Improve this page](https://github.com/shopprecouriers/explore/edit/master/docs/join/readme.md)
+
 ## Living in India
 
 **Earn**: 
 
+#### Offer
 - Rs.200 First time 
 - Rs.200 for other customers follow your article and ship through shoppre
 
+#### Examples:
+
+1. [How to send mangos to USA from India](https://ship.shoppre.com/online-shop-india/buy-myntra-sling-bags-and-ship-at-low-cost-to-venmony-alappuzha-kerala-from-bengaluru/)
+
+
 ## Living outside India
+
+#### Offer
 
 - Rs.500 First time 
 - Rs.500 for other customers follow your article and ship through shoppre
 
-## Examples:
+#### Examples:
 
-1. [How Ship Sling Bags from Myntra to Venmony, Alappuzha, Kerala.](https://ship.shoppre.com/online-shop-india/buy-myntra-sling-bags-and-ship-at-low-cost-to-venmony-alappuzha-kerala-from-bengaluru/)
+1. [Get monagos from India](https://ship.shoppre.com/online-shop-india/buy-myntra-sling-bags-and-ship-at-low-cost-to-venmony-alappuzha-kerala-from-bengaluru/)
+
+
