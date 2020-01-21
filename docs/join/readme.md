@@ -12,7 +12,7 @@
 
 #### Examples:
 
-1. [How to send mangos to USA from India](https://ship.shoppre.com/online-shop-india/buy-myntra-sling-bags-and-ship-at-low-cost-to-venmony-alappuzha-kerala-from-bengaluru/)
+1. [How to send mangos to USA from India](https://ship.shoppre.com/mango-shipping-from-india-international-delivery/)
 
 
 ## Living outside India
@@ -24,6 +24,6 @@
 
 #### Examples:
 
-1. [Get monagos from India](https://ship.shoppre.com/online-shop-india/buy-myntra-sling-bags-and-ship-at-low-cost-to-venmony-alappuzha-kerala-from-bengaluru/)
+1. [Get monagos from India](https://ship.shoppre.com/mango-shipping-from-india-international-delivery/)
 
 
