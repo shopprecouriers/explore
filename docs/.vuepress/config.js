@@ -1,12 +1,18 @@
 module.exports = {
-  title: 'Vuepress',
-  description: 'This is a Zeit Now 2.0 example',
+  title: 'Shoppre Community Forum',
+  description: 'Shoppre Community Forum',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-      { text: 'Config Page', link: '/config' },
     ],
   },
   dest: 'public',
+  plugins: [
+    'social-share',
+    {
+      'sitemap': {
+        hostname: 'https://explore.shopprecouriers.com/'
+      },
+    }
+  ],
 };
